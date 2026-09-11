@@ -30,3 +30,7 @@ print("d:",d)
 
 ## Result
 Thus,the Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is created successfully.
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
