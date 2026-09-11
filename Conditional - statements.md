@@ -26,3 +26,7 @@ EVEN
 
 ## Result
 Thus, the program was successfully executed to check whether the given number is even or odd.
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
